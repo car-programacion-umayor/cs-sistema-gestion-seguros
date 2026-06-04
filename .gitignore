@@ -1,0 +1,17 @@
+## Carpetas del Entorno de Desarrollo (IDE)
+.vs/
+
+## Carpetas de Compilación e Interfaces de Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Exclusiones del Sistema Operativo macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon_
+._*
