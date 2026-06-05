@@ -1,5 +1,9 @@
 # Sistema de Gestión de Pólizas de Seguros
 
+**Asignatura:** Programación en C# (`cs-`)
+
+---
+
 Aplicación de escritorio desarrollada en C# con Windows Forms para la administración de clientes y control de pólizas aseguradoras con almacenamiento temporal en memoria.
 
 ## Arquitectura del Sistema
